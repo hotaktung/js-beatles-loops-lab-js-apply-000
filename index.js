@@ -27,7 +27,8 @@ return FACTS
 function iLoveTheBeatles(s) {
 var LUV =[];
   do {
-    LUV[s-7] = "I love the Beatles!"
+    LUV[s-7] = "I love the Beatles!" 
+    s++
   }
   while (s<15); 
 return LUV
