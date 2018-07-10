@@ -25,9 +25,9 @@ return FACTS
 
 // Do-while Loop
 function iLoveTheBeatles(s) {
-var LUV =[]; 
+var LUV =[]; var c = 7;
   do {
-    LUV[s] = "I love the Beatles!"
+    LUV[c] = "I love the Beatles!"
     s++; 
   }
   while (s < 5); 
