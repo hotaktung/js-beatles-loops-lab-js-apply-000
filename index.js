@@ -27,7 +27,7 @@ return FACTS
 function iLoveTheBeatles(s) {
 var LUV =[];
   do {
-    LUV.push = "I love the Beatles!" 
+    LUV.push("I love the Beatles!" )
     s++
   }
   while (s  <18); 
