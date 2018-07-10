@@ -24,13 +24,11 @@ return FACTS
 }
 
 // Do-while Loop
-function iLoveTheBeatles(sas) {
-var c = 7; var LUV =[]; var luv = [];
-  
+function iLoveTheBeatles(s) {
+var LUV =[]; 
   do {
-    LUV[c-7] = "I love the Beatles!"
-    c++;
+    LUV[s] = "I love the Beatles!"
   }
-  while (c < 15); 
+  while (s < 17); 
 return LUV
 }
