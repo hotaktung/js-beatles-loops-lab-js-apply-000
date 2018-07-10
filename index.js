@@ -31,5 +31,9 @@ var LUV =[];
     s++
   }
   while (s<15); 
+  do {
+    LUV[]
+  }
+  while ()
 return LUV
 }
