@@ -32,6 +32,7 @@ var LUV =[];
   }
   while (s<15); 
   do {
+    LUV = []
     LUV[s-15] = "I love the Beatles!"
     s++
   }
