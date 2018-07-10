@@ -30,6 +30,6 @@ var LUV =[];
     LUV.push("I love the Beatles!" )
     s++
   }
-  while (s  <9); 
+  while (s  <15); 
 return LUV
 }
