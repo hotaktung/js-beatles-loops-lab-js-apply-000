@@ -33,7 +33,7 @@ var LUV =[];
   while (s<15); 
   do {
     LUV = []
-    LUV[s-15] = "I love the Beatles!"
+    LUV[s-17] = "I love the Beatles!"
     s++
   }
   while (17> s>16)
