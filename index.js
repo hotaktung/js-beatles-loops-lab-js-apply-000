@@ -28,6 +28,7 @@ function iLoveTheBeatles(s) {
 var LUV =[]; 
   do {
     LUV[s] = "I love the Beatles!"
+    s++; 
   }
   while (s < 17); 
 return LUV
